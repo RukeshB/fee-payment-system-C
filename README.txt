@@ -1,0 +1,1 @@
+code can be complied only in turbo c++ 4
